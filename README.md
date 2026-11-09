@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abdul Wahab 👋
 
-<!--
-**AbdulWahab-Dev2/AbdulWahab-Dev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Python Developer | Exploring AI & Automation
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming, and using data to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python Programming
+- Big Data & Machine Learning
+- Data Science & Data Analytics
+
+### 🎯 My Long-Term Goal
+To become an AI Engineer and build practical, intelligent solutions.
+
+### 📚 Education
+- BS in Business & Information Technology (BBIT) — Virtual University of Pakistan
+- Advanced Diploma in Software Engineering (ADSE) — Aptech Learning
+
+### ♟️ Beyond Coding
+Chess enthusiast who enjoys strategic thinking and continuous learning.
+
+---
+
+*Learning, building, and improving one step at a time.*
